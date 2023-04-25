@@ -8,8 +8,8 @@ Roll down the road, move between lanes, and collect as many coins as possible.
 
 Controls:
 
-- Left Arrow/Right Arrow to switch lanes
-- Space to jump
-- Down Arrow to slide
+- **Left** Arrow/Right Arrow to change lanes
+- **Space** to jump
+- **Down** Arrow to slide
 
-[**Play the game here**](https://franklinnnn.itch.io/endless-rolling)
+## [**Play the game here**](https://franklinnnn.itch.io/endless-rolling)
